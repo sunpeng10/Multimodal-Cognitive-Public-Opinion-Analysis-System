@@ -54,7 +54,7 @@
 
 ## Reproduction Status
 
-状态待确认，尚未提供可验证的环境、训练或评估运行记录，不能据此认定已完成复现。官方实现链接待核实。后续环境、数据准备和运行证据记录在 [CAER-Net 复现笔记](../reproductions/CAER-Net.md)。
+2026-10-31 已补充 CAER-Net-S 第三方静态图像实现的环境、真实权重 CPU 单图推理及 Gradio 前端验证证据，见[工程验证报告](../experiments/CAER-Net-S-Frontend.md)与[复现笔记](../reproductions/CAER-Net.md)。没有标准数据集性能评估、重新训练或论文结果对齐，不认定为完整官方复现；官方实现链接仍待核实。
 
 ## Potential Research Ideas
 
